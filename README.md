@@ -12,7 +12,20 @@ I am ***Henintsoa RAMAKAVELO*** (a.k.a *D'S, T'N*...), a web developer, game des
 This site is designed to be scalable and open to improvements, allowing visitors to explore my journey through an immersive interface inspired by a virtual desktop.
 
 
-## About the project
+## FR : Le Projet / EN : About the project
+
+## FR : Technologies utilisées / EN : Technologies Used
+- **FR** : The project is built on **Laravel** and includes several dependencies to extend its functionalities:
+- **EN** : Le projet repose sur **Laravel** et inclut plusieurs dépendances pour étendre ses fonctionnalités :
+
+- **Laravel** (Framework PHP)
+- **Breeze** (Authentification légère)
+- **Livewire** (Composants interactifs)
+- **Filament** (Panneau d'administration)
+- **Spatie Permissions** (Gestion des rôles et permissions)
+- **Three.js** (Rendu 3D, optionnel)
+- **Draggable.js** (Gestion du mouvement des fenêtres)
+
 
 ## Fonctionnalités
 Le projet propose un **pseudo-bureau** où l'on peut interagir avec différentes fenêtres simulant un environnement desktop.
@@ -29,18 +42,6 @@ Le projet propose un **pseudo-bureau** où l'on peut interagir avec différentes
 | Changement de fond | Personnalisation du wallpaper du bureau | 🤔 |
 
 Légende : ✅ Fonctionnelle / 🔄 En développement / ⏳ À faire / 🤔 En réflexion
-
-## FR : Technologies utilisées / EN : Technologies Used
-- **FR** : The project is built on **Laravel** and includes several dependencies to extend its functionalities:
-- **EN** : Le projet repose sur **Laravel** et inclut plusieurs dépendances pour étendre ses fonctionnalités :
-
-- **Laravel** (Framework PHP)
-- **Breeze** (Authentification légère)
-- **Livewire** (Composants interactifs)
-- **Filament** (Panneau d'administration)
-- **Spatie Permissions** (Gestion des rôles et permissions)
-- **Three.js** (Rendu 3D, optionnel)
-- **Draggable.js** (Gestion du mouvement des fenêtres)
 
 ## Features EN
 The project offers a **pseudo-desktop** where users can interact with different windows simulating a desktop environment.
