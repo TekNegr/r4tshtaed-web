@@ -44,7 +44,7 @@ Legend: ✅ Functional / 🔄 In development / ⏳ To be done / 🤔 Under consi
 ```cmd
     ./setup.sh
 ```
-***Si Ca me marche pas vous pouvez effectuer les actions suivantes / If doesn't work do the following***
+***Si ça ne marche pas vous pouvez effectuer les actions suivantes / If doesn't work do the following***
 
 **1.** Installer PHP et Composer / Install PHP and Composer  
 **2.** Cloner le projet et configurer Laravel / Clone the project and set up Laravel  
