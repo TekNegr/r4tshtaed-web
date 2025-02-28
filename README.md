@@ -8,7 +8,7 @@ Ce site est conçu pour être évolutif et ouvert aux améliorations, permettant
 ## Introduction EN
 
 Welcome to my Portfolio.
-I am Henintsoa RAMAKAVELO (a.k.a D'S, T'N...), a web developer, game designer, and freelance graphic designer.
+I am ***Henintsoa RAMAKAVELO*** (a.k.a *D'S, T'N*...), a web developer, game designer, and freelance graphic designer.
 This site is designed to be scalable and open to improvements, allowing visitors to explore my journey through an immersive interface inspired by a virtual desktop.
 
 
@@ -96,17 +96,6 @@ Legend: ✅ Functional / 🔄 In development / ⏳ To be done / 🤔 Under consi
    ```cmd
    php artisan serve
    ```
-
-
-
-
-- **Laravel** (PHP Framework)
-- **Breeze** (Lightweight authentication)
-- **Livewire** (Interactive components)
-- **Filament** (Admin panel)
-- **Spatie Permissions** (Role and permission management)
-- **Three.js** (3D rendering, optional)
-- **Draggable.js** (Window movement management)
 
 
 ## FR : Laravel - Présentation
